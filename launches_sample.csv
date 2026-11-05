@@ -1,0 +1,4 @@
+flight_number,launch_utc,launch_site,payload,launch_outcome,source
+1,2018-02-06 20:45,Kennedy LC-39A,Tesla Roadster,Success,Wikipedia Falcon Heavy
+2,2019-04-11 22:35,Kennedy LC-39A,Arabsat-6A,Success,Wikipedia Falcon Heavy
+3,2019-06-25 06:30,Kennedy LC-39A,USAF STP-2,Success,Wikipedia Falcon Heavy
